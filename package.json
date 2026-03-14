@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^2.2.2",
     "express": "^5.2.1",
     "mongoose": "^9.3.0"
@@ -15,4 +16,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs"
+=======
+    "express": "^5.2.1"
+  }
+>>>>>>> d0ac7fd2ffe0ff9861399fc70b84dc0bf6fff7f1
 }
